@@ -1,0 +1,24 @@
+{
+  "name": "js-tdd-course",
+  "version": "1.0.0",
+  "description": "Out JS-TDD library.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rmanenti/udemy.js-tdd.git"
+  },
+  "keywords": [
+    "js",
+    "tdd",
+    "library"
+  ],
+  "author": "Ricardo Manenti <rmanenti@gmail.com> (https://rhinoceros.nocti.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rmanenti/udemy.js-tdd/issues"
+  },
+  "homepage": "https://github.com/rmanenti/udemy.js-tdd#readme"
+}

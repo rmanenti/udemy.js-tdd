@@ -7,4 +7,4 @@ function sum(c) {
 
 const c = 'dfsfsfsefefsefdfsfsfsefefsefdfsfsfsefefsefdfsfsfsefefsefdfsfsfsefefsefdfsfsfsefefsefdfsfsfsefefsef';
 
-
+sum(c);
